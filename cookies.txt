@@ -1,0 +1,21 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+gcdn.meidianbang.cn	TRUE	/	FALSE	1999999999	CsrfTokenP	5c676035b1927fed-1774433591-65a4801f5c44ead1
+gcdn.meidianbang.cn	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.best-supply-chain.com	TRUE	/	FALSE	1999999999	CsrfToken	972bb195a427bd2b-1774433724-efb9b96d43ac65c2
+www.best-supply-chain.com	TRUE	/	FALSE	1999999999	CsrfTokenP	972bb195a427bd2b-1774433724-efb9b96d43ac65c2
+www.best-supply-chain.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.best-supply-chain.com	TRUE	/	FALSE	1999999999	InitSiteID	100040
+www.best-supply-chain.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.best-supply-chain.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.best-supply-chain.com	TRUE	/	FALSE	1999999999	IsDefaultLang	1
+www.best-supply-chain.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.best-supply-chain.com	TRUE	/	FALSE	1999999999	WUserID	17413121152388
+www.best-supply-chain.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.best-supply-chain.com	TRUE	/	FALSE	1999999999	Lang	cn
+www.best-supply-chain.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.best-supply-chain.com	TRUE	/	FALSE	1999999999	PHPSESSID	2i10jsfon9ogcios7m3jidbmfh
+www.best-supply-chain.com	TRUE	/	FALSE	1999999999	SameSite	Strict
+www.best-supply-chain.com	TRUE	/	FALSE	1999999999	SiteType	1
+www.best-supply-chain.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

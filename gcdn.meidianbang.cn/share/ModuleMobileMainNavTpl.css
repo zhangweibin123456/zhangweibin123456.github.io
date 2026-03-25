@@ -1,0 +1,976 @@
+﻿/******* 横向-下-渐变直角***************/
+.navTpl_0_1_yellow_1 { background: none repeat 0% 0% scroll; height: 49px; line-height: 49px; }
+.navTpl_0_1_yellow_1 .nav{background:#f4721c repeat-x; height:49px;}
+.navTpl_0_1_yellow_1 .nav .navMainItemGroup .navMainItem{ width: 100px; height: 49px;}
+.navTpl_0_1_yellow_1 .nav .navMainItemGroup { width: 100px; height: 49px; line-height: 49px;}
+/*底色参数*/
+.navTpl_0_1_yellow_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 14px "microsoft yahei"; text-decoration: none; color:#fff; height: 49px; line-height: 49px; }
+/*hover参数*/
+.navTpl_0_1_yellow_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_1_yellow_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_1_yellow_1 .nav .navMainItemGroup .navMainItem:hover { background: #ea7600 repeat 0% 0% scroll; font: normal normal 14px "microsoft yahei"; text-decoration: none; color:#fff; height: 49px; line-height: 49px;}
+.navTpl_0_1_yellow_1 .nav .navSubItemGroup { width: 100px; height: 39px; line-height: 39px; }
+/*二级菜单参数*/
+.navTpl_0_1_yellow_1 .nav .navSubItemGroup .navSubItem { background: #ea7600 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 39px; line-height: 39px; }
+/*二级菜单hover参数*/
+.navTpl_0_1_yellow_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_1_yellow_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_1_yellow_1 .nav .navSubItemGroup .navSubItem:hover { background: #ea7600 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 39px; line-height: 39px; }
+[navtplclassname=navTpl_0_1_yellow_1] .tplPreviewImg{background:url(navTpl/yellow/yellow_0_1_1.jpg);}
+
+/**********************/
+.navTpl_0_1_black_1 { background: none repeat 0% 0% scroll; height: 49px; line-height: 49px; }
+.navTpl_0_1_black_1 .nav{background:#323232;height:49px;}
+.navTpl_0_1_black_1 .nav .navMainItemGroup .navMainItem{ width: 100px; height: 49px;}
+.navTpl_0_1_black_1 .nav .navMainItemGroup { width: 100px; height: 49px; line-height: 49px;}
+/*底色参数*/
+.navTpl_0_1_black_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 14px "microsoft yahei"; text-decoration: none; color:#fff; height: 49px; line-height: 49px; }
+/*hover参数*/
+.navTpl_0_1_black_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_1_black_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_1_black_1 .nav .navMainItemGroup .navMainItem:hover { background: #BFBFBF; font: normal normal 14px "microsoft yahei"; text-decoration: none; color:#fff; height: 49px; line-height: 49px;}
+.navTpl_0_1_black_1 .nav .navSubItemGroup { width: 100px; height: 39px; line-height: 39px;border-bottom: 1px solid #FFF; }
+/*二级菜单参数*/
+.navTpl_0_1_black_1 .nav .navSubItemGroup .navSubItem { background: #323232; font: normal normal 14px "microsoft yahei"; text-decoration: none; color:#fff; height: 39px; line-height: 39px; }
+/*二级菜单hover参数*/
+.navTpl_0_1_black_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_1_black_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_1_black_1 .nav .navSubItemGroup .navSubItem:hover { background: #323232 ; font: normal normal 14px "microsoft yahei"; text-decoration: none; color:#fff; height: 39px; line-height: 39px; }
+[navtplclassname=navTpl_0_1_black_1] .tplPreviewImg{background:url(navTpl/black/black_0_1_1.jpg);}
+
+/**********************/
+.navTpl_0_1_red_1 { background: none repeat 0% 0% scroll; height: 49px; line-height: 49px; }
+.navTpl_0_1_red_1 .nav{background:#ca1012;height:49px;}
+.navTpl_0_1_red_1 .nav .navMainItemGroup .navMainItem{ width: 100px; height: 49px;}
+.navTpl_0_1_red_1 .nav .navMainItemGroup { width: 100px; height: 49px; line-height: 49px;}
+/*底色参数*/
+.navTpl_0_1_red_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 14px "microsoft yahei"; text-decoration: none; color:#fff; height: 49px; line-height: 49px; }
+/*hover参数*/
+.navTpl_0_1_red_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_1_red_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_1_red_1 .nav .navMainItemGroup .navMainItem:hover { background: #d60000 repeat 0% 0% scroll; font: normal normal 14px "microsoft yahei"; text-decoration: none; color:#fff; height: 49px; line-height: 49px;}
+.navTpl_0_1_red_1 .nav .navSubItemGroup { width: 100px; height: 39px; line-height: 39px; }
+/*二级菜单参数*/
+.navTpl_0_1_red_1 .nav .navSubItemGroup .navSubItem { background: #ca1012; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 39px; line-height: 39px; }
+/*二级菜单hover参数*/
+.navTpl_0_1_red_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_1_red_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_1_red_1 .nav .navSubItemGroup .navSubItem:hover { background: #ca1012; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 39px; line-height: 39px; }
+[navtplclassname=navTpl_0_1_red_1] .tplPreviewImg{background:url(navTpl/red/red_0_1_1.jpg);}
+
+/**********************/
+.navTpl_0_1_brown_1 { background: none repeat 0% 0% scroll; height: 49px; line-height: 49px; }
+.navTpl_0_1_brown_1 .nav{background:#DD9C3A;height:49px;}
+.navTpl_0_1_brown_1 .nav .navMainItemGroup .navMainItem{ width: 100px; height: 49px;}
+.navTpl_0_1_brown_1 .nav .navMainItemGroup { width: 100px; height: 49px; line-height: 49px;}
+/*底色参数*/
+.navTpl_0_1_brown_1 .nav .navMainItemGroup .navMainItem {  font:normal normal 14px "microsoft yahei"; text-decoration: none; color:#fff; height: 49px; line-height: 49px; }
+/*hover参数*/
+.navTpl_0_1_brown_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_1_brown_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_1_brown_1 .nav .navMainItemGroup .navMainItem:hover { background: #c18200 repeat 0% 0% scroll; font: normal normal 14px "microsoft yahei"; text-decoration: none; color:#fff; height: 49px; line-height: 49px;}
+.navTpl_0_1_brown_1 .nav .navSubItemGroup { width: 100px; height: 39px; line-height: 39px; }
+/*二级菜单参数*/
+.navTpl_0_1_brown_1 .nav .navSubItemGroup .navSubItem { background: #c18200 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 39px; line-height: 39px; }
+/*二级菜单hover参数*/
+.navTpl_0_1_brown_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_1_brown_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_1_brown_1 .nav .navSubItemGroup .navSubItem:hover { background: #c18200 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 39px; line-height: 39px; }
+[navtplclassname=navTpl_0_1_brown_1] .tplPreviewImg{background:url(navTpl/brown/brown_0_1_1.jpg);}
+
+/**********************/
+.navTpl_0_1_green_1 { background: none repeat 0% 0% scroll; height: 49px; line-height: 49px; }
+.navTpl_0_1_green_1 .nav{background:#058B4F;height:49px;}
+.navTpl_0_1_green_1 .nav .navMainItemGroup .navMainItem{ width: 100px; height: 49px;}
+.navTpl_0_1_green_1 .nav .navMainItemGroup { width: 100px; height: 49px; line-height: 49px;}
+/*底色参数*/
+.navTpl_0_1_green_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 14px "microsoft yahei"; text-decoration: none; color:#fff; height: 49px; line-height: 49px; }
+/*hover参数*/
+.navTpl_0_1_green_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_1_green_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_1_green_1 .nav .navMainItemGroup .navMainItem:hover { background: #00b346 repeat 0% 0% scroll; font: normal normal 14px "microsoft yahei"; text-decoration: none; color:#fff; height: 49px; line-height: 49px;}
+.navTpl_0_1_green_1 .nav .navSubItemGroup { width: 100px; height: 39px; line-height: 39px; }
+/*二级菜单参数*/
+.navTpl_0_1_green_1 .nav .navSubItemGroup .navSubItem { background: #00b346 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 39px; line-height: 39px; }
+/*二级菜单hover参数*/
+.navTpl_0_1_green_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_1_green_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_1_green_1 .nav .navSubItemGroup .navSubItem:hover { background: #00b346 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 39px; line-height: 39px; }
+[navtplclassname=navTpl_0_1_green_1] .tplPreviewImg{background:url(navTpl/green/green_0_1_1.jpg);}
+
+/**********************/
+.navTpl_0_1_blue_1 { background: none repeat 0% 0% scroll; height: 49px; line-height: 49px; }
+.navTpl_0_1_blue_1 .nav{background:#1964B1;height:49px;}
+.navTpl_0_1_blue_1 .nav .navMainItemGroup .navMainItem{ width: 100px; height: 49px;}
+.navTpl_0_1_blue_1 .nav .navMainItemGroup { width: 100px; height: 49px; line-height: 49px;}
+/*底色参数*/
+.navTpl_0_1_blue_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 14px "microsoft yahei"; text-decoration: none; color:#fff; height: 49px; line-height: 49px; }
+/*hover参数*/
+.navTpl_0_1_blue_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_1_blue_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_1_blue_1 .nav .navMainItemGroup .navMainItem:hover { background: #258bd3 repeat 0% 0% scroll; font: normal normal 14px "microsoft yahei"; text-decoration: none; color:#fff; height: 49px; line-height: 49px;}
+.navTpl_0_1_blue_1 .nav .navSubItemGroup { width: 100px; height: 39px; line-height: 39px; }
+/*二级菜单参数*/
+.navTpl_0_1_blue_1 .nav .navSubItemGroup .navSubItem { background: #258bd3 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 39px; line-height: 39px; }
+/*二级菜单hover参数*/
+.navTpl_0_1_blue_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_1_blue_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_1_blue_1 .nav .navSubItemGroup .navSubItem:hover { background: #258bd3 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 39px; line-height: 39px; }
+[navtplclassname=navTpl_0_1_blue_1] .tplPreviewImg{background:url(navTpl/blue/blue_0_1_1.jpg);}
+
+/**********************/
+.navTpl_0_1_purple_1 { background: none repeat 0% 0% scroll; height: 49px; line-height: 49px; }
+.navTpl_0_1_purple_1 .nav{background:#9140A0;height:49px;}
+.navTpl_0_1_purple_1 .nav .navMainItemGroup .navMainItem{ width: 100px; height: 49px;}
+.navTpl_0_1_purple_1 .nav .navMainItemGroup { width: 100px; height: 49px; line-height: 49px;}
+/*底色参数*/
+.navTpl_0_1_purple_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 14px "microsoft yahei"; text-decoration: none; color:#fff; height: 49px; line-height: 49px; }
+/*hover参数*/
+.navTpl_0_1_purple_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_1_purple_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_1_purple_1 .nav .navMainItemGroup .navMainItem:hover { background: #d426ac repeat 0% 0% scroll; font: normal normal 14px "microsoft yahei"; text-decoration: none; color:#fff; height: 49px; line-height: 49px;}
+.navTpl_0_1_purple_1 .nav .navSubItemGroup { width: 100px; height: 39px; line-height: 39px; }
+/*二级菜单参数*/
+.navTpl_0_1_purple_1 .nav .navSubItemGroup .navSubItem { background: #d426ac repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 39px; line-height: 39px; }
+/*二级菜单hover参数*/
+.navTpl_0_1_purple_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_1_purple_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_1_purple_1 .nav .navSubItemGroup .navSubItem:hover { background: #d426ac repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 39px; line-height: 39px; }
+[navtplclassname=navTpl_0_1_purple_1] .tplPreviewImg{background:url(navTpl/purple/purple_0_1_1.jpg);}
+
+/**********************/
+.navTpl_0_1_white_1 { background: none repeat 0% 0% scroll; height: 49px; line-height: 49px; }
+.navTpl_0_1_white_1 .nav{background:#FFF;height:49px;}
+.navTpl_0_1_white_1 .nav .navMainItemGroup .navMainItem{ width: 100px; height: 49px;}
+.navTpl_0_1_white_1 .nav .navMainItemGroup { width: 100px; height: 49px; line-height: 49px;}
+/*底色参数*/
+.navTpl_0_1_white_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 14px "microsoft yahei"; text-decoration: none; color:#000; height: 49px; line-height: 49px; }
+/*hover参数*/
+.navTpl_0_1_white_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_1_white_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_1_white_1 .nav .navMainItemGroup .navMainItem:hover { background: #f2f2f2 repeat 0% 0% scroll; font: normal normal 14px "microsoft yahei"; text-decoration: none; color:#000; height: 49px; line-height: 49px;}
+.navTpl_0_1_white_1 .nav .navSubItemGroup { width: 100px; height: 39px; line-height: 39px; }
+/*二级菜单参数*/
+.navTpl_0_1_white_1 .nav .navSubItemGroup .navSubItem { background: #f2f2f2 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#000; height: 39px; line-height: 39px; }
+/*二级菜单hover参数*/
+.navTpl_0_1_white_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_1_white_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_1_white_1 .nav .navSubItemGroup .navSubItem:hover { background: #f2f2f2 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#000; height: 39px; line-height: 39px; }
+[navtplclassname=navTpl_0_1_white_1] .tplPreviewImg{background:url(navTpl/white/white_0_1_1.jpg);}
+
+/**********************/
+/********横向-下-渐变圆角**************/
+
+
+.navTpl_0_1_yellow_2 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_1_yellow_2 .nav{background:url(navTpl/yellow_bg.jpg) repeat-x;border-radius:10px; height:42px;}
+.navTpl_0_1_yellow_2 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px; }
+.navTpl_0_1_yellow_2 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px; }
+/*底色参数*/
+.navTpl_0_1_yellow_2 .nav .navMainItemGroup .navMainItem { font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_1_yellow_2 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_1_yellow_2 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_1_yellow_2 .nav .navMainItemGroup .navMainItem:hover { background: #ea7600 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px;border-radius:10px;}
+.navTpl_0_1_yellow_2 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_1_yellow_2 .nav .navSubItemGroup .navSubItem { background:url(navTpl/san_13_nnxI.png) no-repeat left #ea7600; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; text-indent:1em; margin-top:2px;}
+/*二级菜单hover参数*/
+.navTpl_0_1_yellow_2 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_1_yellow_2 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_1_yellow_2 .nav .navSubItemGroup .navSubItem:hover { background:url(navTpl/san_13_nnxI.png) no-repeat left #ea7600; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; text-indent:1em;}
+[navtplclassname=navTpl_0_1_yellow_2] .tplPreviewImg{background:url(navTpl/yellow/yellow_0_1_2.jpg);}
+/**********************/
+
+.navTpl_0_1_black_2 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_1_black_2 .nav{background:url(navTpl/black_bg.jpg) repeat-x;border-radius:10px; height:42px;}
+.navTpl_0_1_black_2 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px;}
+.navTpl_0_1_black_2 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px;}
+/*底色参数*/
+.navTpl_0_1_black_2 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_1_black_2 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_1_black_2 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_1_black_2 .nav .navMainItemGroup .navMainItem:hover { background: #0d0d0d repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px;border-radius:10px;}
+.navTpl_0_1_black_2 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_1_black_2 .nav .navSubItemGroup .navSubItem {  background:url(navTpl/san_13_nnxI.png) no-repeat left #0d0d0d; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; text-indent:1em; margin-top:2px;}
+/*二级菜单hover参数*/
+.navTpl_0_1_black_2 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_1_black_2 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_1_black_2 .nav .navSubItemGroup .navSubItem:hover { background: #0d0d0d repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+[navtplclassname=navTpl_0_1_black_2] .tplPreviewImg{background:url(navTpl/black/black_0_1_2.jpg);}
+
+/**********************/
+.navTpl_0_1_red_2 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_1_red_2 .nav{background:url(navTpl/red_bg.jpg) repeat-x;border-radius:10px; height:42px;}
+.navTpl_0_1_red_2 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px;}
+.navTpl_0_1_red_2 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px;}
+/*底色参数*/
+.navTpl_0_1_red_2 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_1_red_2 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_1_red_2 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_1_red_2 .nav .navMainItemGroup .navMainItem:hover { background: #d60000 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px;border-radius:10px; }
+.navTpl_0_1_red_2 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_1_red_2 .nav .navSubItemGroup .navSubItem {  background:url(navTpl/san_13_nnxI.png) no-repeat left #d60000; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; text-indent:1em; margin-top:2px;}
+/*二级菜单hover参数*/
+.navTpl_0_1_red_2 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_1_red_2 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_1_red_2 .nav .navSubItemGroup .navSubItem:hover { background: #d60000 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+[navtplclassname=navTpl_0_1_red_2] .tplPreviewImg{background:url(navTpl/red/red_0_1_2.jpg);}
+
+/**********************/
+.navTpl_0_1_brown_2 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_1_brown_2 .nav{background:url(navTpl/brown_bg.jpg) repeat-x;border-radius:10px;height:42px;}
+.navTpl_0_1_brown_2 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px;}
+.navTpl_0_1_brown_2 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px;}
+/*底色参数*/
+.navTpl_0_1_brown_2 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_1_brown_2 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_1_brown_2 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_1_brown_2 .nav .navMainItemGroup .navMainItem:hover { background: #c18200 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px;border-radius:10px; }
+.navTpl_0_1_brown_2 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_1_brown_2 .nav .navSubItemGroup .navSubItem { background:url(navTpl/san_13_nnxI.png) no-repeat left #c18200; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px;text-indent:1em; margin-top:2px; }
+/*二级菜单hover参数*/
+.navTpl_0_1_brown_2 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_1_brown_2 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_1_brown_2 .nav .navSubItemGroup .navSubItem:hover { background: #c18200 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+[navtplclassname=navTpl_0_1_brown_2] .tplPreviewImg{background:url(navTpl/brown/brown_0_1_2.jpg);}
+
+/**********************/
+.navTpl_0_1_green_2 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_1_green_2 .nav{background:url(navTpl/green_bg.jpg) repeat-x;border-radius:10px;height:42px; }
+.navTpl_0_1_green_2 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px;}
+.navTpl_0_1_green_2 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px;}
+/*底色参数*/
+.navTpl_0_1_green_2 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_1_green_2 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_1_green_2 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_1_green_2 .nav .navMainItemGroup .navMainItem:hover { background: #00b346 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px;border-radius:10px; }
+.navTpl_0_1_green_2 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_1_green_2 .nav .navSubItemGroup .navSubItem { background:url(navTpl/san_13_nnxI.png) no-repeat left #00b346; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px;text-indent:1em; margin-top:2px;  }
+/*二级菜单hover参数*/
+.navTpl_0_1_green_2 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_1_green_2 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_1_green_2 .nav .navSubItemGroup .navSubItem:hover { background: #00b346 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+[navtplclassname=navTpl_0_1_green_2] .tplPreviewImg{background:url(navTpl/green/green_0_1_2.jpg);}
+
+/**********************/
+.navTpl_0_1_blue_2 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_1_blue_2 .nav{background:url(navTpl/blue_bg.jpg) repeat-x;border-radius:10px;height:42px;}
+.navTpl_0_1_blue_2 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px;}
+.navTpl_0_1_blue_2 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px; }
+/*底色参数*/
+.navTpl_0_1_blue_2 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_1_blue_2 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_1_blue_2 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_1_blue_2 .nav .navMainItemGroup .navMainItem:hover { background: #258bd3 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px;border-radius:10px;}
+.navTpl_0_1_blue_2 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_1_blue_2 .nav .navSubItemGroup .navSubItem { background:url(navTpl/san_13_nnxI.png) no-repeat left #258bd3; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; text-indent:1em; margin-top:2px;}
+/*二级菜单hover参数*/
+.navTpl_0_1_blue_2 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_1_blue_2 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_1_blue_2 .nav .navSubItemGroup .navSubItem:hover { background: #258bd3 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+[navtplclassname=navTpl_0_1_blue_2] .tplPreviewImg{background:url(navTpl/blue/blue_0_1_2.jpg);}
+
+/**********************/
+.navTpl_0_1_purple_2 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_1_purple_2 .nav{background:url(navTpl/purple_bg.jpg) repeat-x;border-radius:10px;height:42px;}
+.navTpl_0_1_purple_2 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px;}
+.navTpl_0_1_purple_2 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px; }
+/*底色参数*/
+.navTpl_0_1_purple_2 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_1_purple_2 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_1_purple_2 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_1_purple_2 .nav .navMainItemGroup .navMainItem:hover { background: #d426ac repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px;border-radius:10px;}
+.navTpl_0_1_purple_2 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_1_purple_2 .nav .navSubItemGroup .navSubItem { background:url(navTpl/san_13_nnxI.png) no-repeat left #d426ac; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; text-indent:1em; margin-top:2px;}
+/*二级菜单hover参数*/
+.navTpl_0_1_purple_2 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_1_purple_2 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_1_purple_2 .nav .navSubItemGroup .navSubItem:hover { background: #d426ac repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+[navtplclassname=navTpl_0_1_purple_2] .tplPreviewImg{background:url(navTpl/purple/purple_0_1_2.jpg);}
+
+/**********************/
+.navTpl_0_1_white_2 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_1_white_2 .nav{background:url(navTpl/white_bg.jpg) repeat-x;border-radius:10px;height:42px;}
+.navTpl_0_1_white_2 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px;}
+.navTpl_0_1_white_2 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px; background:url(navTpl/white_line.jpg) right no-repeat;}
+/*底色参数*/
+.navTpl_0_1_white_2 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#000; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_1_white_2 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_1_white_2 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_1_white_2 .nav .navMainItemGroup .navMainItem:hover { background: #f2f2f2 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#000; height: 42px; line-height: 42px;border-radius:10px;}
+.navTpl_0_1_white_2 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_1_white_2 .nav .navSubItemGroup .navSubItem { background:url(navTpl/san_13_nnxI.png) no-repeat left #f2f2f2; font: normal normal 14px 微软雅黑; text-decoration: none; color:#000; height: 29px; line-height: 29px; text-indent:1em; margin-top:2px;}
+/*二级菜单hover参数*/
+.navTpl_0_1_white_2 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_1_white_2 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_1_white_2 .nav .navSubItemGroup .navSubItem:hover { background: #f2f2f2 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#000; height: 29px; line-height: 29px; }
+[navtplclassname=navTpl_0_1_white_2] .tplPreviewImg{background:url(navTpl/white/white_0_1_2.jpg);}
+
+/**********************/
+
+
+
+
+
+
+/******* 横向-上-渐变直角***************/
+.navTpl_0_0_yellow_1 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_0_yellow_1 .nav{background:url(navTpl/yellow_bg.jpg) repeat-x;height:42px;}
+.navTpl_0_0_yellow_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px;}
+.navTpl_0_0_yellow_1 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px; background:url(navTpl/yellow_line.jpg) right no-repeat;}
+/*底色参数*/
+.navTpl_0_0_yellow_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_0_yellow_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_0_yellow_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_0_yellow_1 .nav .navMainItemGroup .navMainItem:hover { background: #ea7600 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px;}
+.navTpl_0_0_yellow_1 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_0_yellow_1 .nav .navSubItemGroup .navSubItem { background: #ea7600 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+/*二级菜单hover参数*/
+.navTpl_0_0_yellow_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_0_yellow_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_0_yellow_1 .nav .navSubItemGroup .navSubItem:hover { background: #ea7600 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+[navtplclassname=navTpl_0_0_yellow_1] .tplPreviewImg{background:url(navTpl/yellow/yellow_0_0_1.jpg);}
+
+/**********************/
+.navTpl_0_0_black_1 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_0_black_1 .nav{background:url(navTpl/black_bg.jpg) repeat-x;height:42px;}
+.navTpl_0_0_black_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px;}
+.navTpl_0_0_black_1 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px; background:url(navTpl/black_line.jpg) right no-repeat;}
+/*底色参数*/
+.navTpl_0_0_black_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_0_black_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_0_black_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_0_black_1 .nav .navMainItemGroup .navMainItem:hover { background: #0d0d0d repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px;}
+.navTpl_0_0_black_1 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_0_black_1 .nav .navSubItemGroup .navSubItem { background: #0d0d0d repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+/*二级菜单hover参数*/
+.navTpl_0_0_black_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_0_black_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_0_black_1 .nav .navSubItemGroup .navSubItem:hover { background: #0d0d0d repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+[navtplclassname=navTpl_0_0_black_1] .tplPreviewImg{background:url(navTpl/black/black_0_0_1.jpg);}
+
+/**********************/
+.navTpl_0_0_red_1 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_0_red_1 .nav{background:url(navTpl/red_bg.jpg) repeat-x;height:42px;}
+.navTpl_0_0_red_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px;}
+.navTpl_0_0_red_1 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px; background:url(navTpl/red_line.jpg) right no-repeat;}
+/*底色参数*/
+.navTpl_0_0_red_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_0_red_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_0_red_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_0_red_1 .nav .navMainItemGroup .navMainItem:hover { background: #d60000 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px;}
+.navTpl_0_0_red_1 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_0_red_1 .nav .navSubItemGroup .navSubItem { background: #d60000 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+/*二级菜单hover参数*/
+.navTpl_0_0_red_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_0_red_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_0_red_1 .nav .navSubItemGroup .navSubItem:hover { background: #d60000 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+[navtplclassname=navTpl_0_0_red_1] .tplPreviewImg{background:url(navTpl/red/red_0_0_1.jpg);}
+
+/**********************/
+.navTpl_0_0_brown_1 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_0_brown_1 .nav{background:url(navTpl/brown_bg.jpg) repeat-x;height:42px;}
+.navTpl_0_0_brown_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px;}
+.navTpl_0_0_brown_1 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px; background:url(navTpl/brown_line.jpg) right no-repeat;}
+/*底色参数*/
+.navTpl_0_0_brown_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_0_brown_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_0_brown_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_0_brown_1 .nav .navMainItemGroup .navMainItem:hover { background: #c18200 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px;}
+.navTpl_0_0_brown_1 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_0_brown_1 .nav .navSubItemGroup .navSubItem { background: #c18200 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+/*二级菜单hover参数*/
+.navTpl_0_0_brown_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_0_brown_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_0_brown_1 .nav .navSubItemGroup .navSubItem:hover { background: #c18200 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+[navtplclassname=navTpl_0_0_brown_1] .tplPreviewImg{background:url(navTpl/brown/brown_0_0_1.jpg);}
+
+/**********************/
+.navTpl_0_0_green_1 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_0_green_1 .nav{background:url(navTpl/green_bg.jpg) repeat-x;height:42px;}
+.navTpl_0_0_green_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px;}
+.navTpl_0_0_green_1 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px; background:url(navTpl/green_line.jpg) right no-repeat;}
+/*底色参数*/
+.navTpl_0_0_green_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_0_green_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_0_green_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_0_green_1 .nav .navMainItemGroup .navMainItem:hover { background: #00b346 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px;}
+.navTpl_0_0_green_1 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_0_green_1 .nav .navSubItemGroup .navSubItem { background: #00b346 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+/*二级菜单hover参数*/
+.navTpl_0_0_green_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_0_green_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_0_green_1 .nav .navSubItemGroup .navSubItem:hover { background: #00b346 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+[navtplclassname=navTpl_0_0_green_1] .tplPreviewImg{background:url(navTpl/green/green_0_0_1.jpg);}
+
+/**********************/
+.navTpl_0_0_blue_1 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_0_blue_1 .nav{background:url(navTpl/blue_bg.jpg) repeat-x;height:42px;}
+.navTpl_0_0_blue_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px;}
+.navTpl_0_0_blue_1 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px; background:url(navTpl/blue_line.jpg) right no-repeat;}
+/*底色参数*/
+.navTpl_0_0_blue_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_0_blue_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_0_blue_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_0_blue_1 .nav .navMainItemGroup .navMainItem:hover { background: #258bd3 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px;}
+.navTpl_0_0_blue_1 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_0_blue_1 .nav .navSubItemGroup .navSubItem { background: #258bd3 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+/*二级菜单hover参数*/
+.navTpl_0_0_blue_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_0_blue_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_0_blue_1 .nav .navSubItemGroup .navSubItem:hover { background: #258bd3 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+[navtplclassname=navTpl_0_0_blue_1] .tplPreviewImg{background:url(navTpl/blue/blue_0_0_1.jpg);}
+
+/**********************/
+.navTpl_0_0_purple_1 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_0_purple_1 .nav{background:url(navTpl/purple_bg.jpg) repeat-x;height:42px;}
+.navTpl_0_0_purple_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px;}
+.navTpl_0_0_purple_1 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px; background:url(navTpl/purple_line.jpg) right no-repeat;}
+/*底色参数*/
+.navTpl_0_0_purple_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_0_purple_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_0_purple_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_0_purple_1 .nav .navMainItemGroup .navMainItem:hover { background: #d426ac repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px;}
+.navTpl_0_0_purple_1 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_0_purple_1 .nav .navSubItemGroup .navSubItem { background: #d426ac repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+/*二级菜单hover参数*/
+.navTpl_0_0_purple_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_0_purple_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_0_purple_1 .nav .navSubItemGroup .navSubItem:hover { background: #d426ac repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+[navtplclassname=navTpl_0_0_purple_1] .tplPreviewImg{background:url(navTpl/purple/purple_0_0_1.jpg);}
+
+/**********************/
+.navTpl_0_0_white_1 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_0_white_1 .nav{background:url(navTpl/white_bg.jpg) repeat-x;height:42px;}
+.navTpl_0_0_white_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px;}
+.navTpl_0_0_white_1 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px; background:url(navTpl/white_line.jpg) right no-repeat;}
+/*底色参数*/
+.navTpl_0_0_white_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#000; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_0_white_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_0_white_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_0_white_1 .nav .navMainItemGroup .navMainItem:hover { background: #f2f2f2 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#000; height: 42px; line-height: 42px;}
+.navTpl_0_0_white_1 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_0_white_1 .nav .navSubItemGroup .navSubItem { background: #f2f2f2 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#000; height: 29px; line-height: 29px; }
+/*二级菜单hover参数*/
+.navTpl_0_0_white_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_0_white_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_0_white_1 .nav .navSubItemGroup .navSubItem:hover { background: #f2f2f2 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#000; height: 29px; line-height: 29px; }
+[navtplclassname=navTpl_0_0_white_1] .tplPreviewImg{background:url(navTpl/white/white_0_0_1.jpg);}
+
+/**********************/
+/**********横向-上-渐变圆角************/
+
+.navTpl_0_0_yellow_2 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_0_yellow_2 .nav{background:url(navTpl/yellow_bg.jpg) repeat-x;border-radius:10px; height:42px;}
+.navTpl_0_0_yellow_2 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px; }
+.navTpl_0_0_yellow_2 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px; }
+/*底色参数*/
+.navTpl_0_0_yellow_2 .nav .navMainItemGroup .navMainItem { font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_0_yellow_2 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_0_yellow_2 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_0_yellow_2 .nav .navMainItemGroup .navMainItem:hover { background: #ea7600 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px;border-radius:10px;}
+.navTpl_0_0_yellow_2 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_0_yellow_2 .nav .navSubItemGroup .navSubItem { background:url(navTpl/san_13_nnxI.png) no-repeat left #ea7600; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; text-indent:1em; margin-top:2px;}
+/*二级菜单hover参数*/
+.navTpl_0_0_yellow_2 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_0_yellow_2 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_0_yellow_2 .nav .navSubItemGroup .navSubItem:hover { background:url(navTpl/san_13_nnxI.png) no-repeat left #ea7600; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; text-indent:1em;}
+[navtplclassname=navTpl_0_0_yellow_2] .tplPreviewImg{background:url(navTpl/yellow/yellow_0_0_2.jpg);}
+/**********************/
+
+.navTpl_0_0_black_2 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_0_black_2 .nav{background:url(navTpl/black_bg.jpg) repeat-x;border-radius:10px;height:42px; }
+.navTpl_0_0_black_2 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px;}
+.navTpl_0_0_black_2 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px;}
+/*底色参数*/
+.navTpl_0_0_black_2 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_0_black_2 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_0_black_2 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_0_black_2 .nav .navMainItemGroup .navMainItem:hover { background: #0d0d0d repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px;border-radius:10px;}
+.navTpl_0_0_black_2 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_0_black_2 .nav .navSubItemGroup .navSubItem {  background:url(navTpl/san_13_nnxI.png) no-repeat left #0d0d0d; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; text-indent:1em; margin-top:2px;}
+/*二级菜单hover参数*/
+.navTpl_0_0_black_2 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_0_black_2 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_0_black_2 .nav .navSubItemGroup .navSubItem:hover { background: #0d0d0d repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+[navtplclassname=navTpl_0_0_black_2] .tplPreviewImg{background:url(navTpl/black/black_0_0_2.jpg);}
+
+/**********************/
+.navTpl_0_0_red_2 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_0_red_2 .nav{background:url(navTpl/red_bg.jpg) repeat-x;border-radius:10px;height:42px; }
+.navTpl_0_0_red_2 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px;}
+.navTpl_0_0_red_2 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px;}
+/*底色参数*/
+.navTpl_0_0_red_2 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_0_red_2 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_0_red_2 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_0_red_2 .nav .navMainItemGroup .navMainItem:hover { background: #d60000 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px;border-radius:10px; }
+.navTpl_0_0_red_2 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_0_red_2 .nav .navSubItemGroup .navSubItem {  background:url(navTpl/san_13_nnxI.png) no-repeat left #d60000; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; text-indent:1em; margin-top:2px;}
+/*二级菜单hover参数*/
+.navTpl_0_0_red_2 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_0_red_2 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_0_red_2 .nav .navSubItemGroup .navSubItem:hover { background: #d60000 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+[navtplclassname=navTpl_0_0_red_2] .tplPreviewImg{background:url(navTpl/red/red_0_0_2.jpg);}
+
+/**********************/
+.navTpl_0_0_brown_2 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_0_brown_2 .nav{background:url(navTpl/brown_bg.jpg) repeat-x;border-radius:10px;height:42px;}
+.navTpl_0_0_brown_2 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px;}
+.navTpl_0_0_brown_2 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px;}
+/*底色参数*/
+.navTpl_0_0_brown_2 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_0_brown_2 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_0_brown_2 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_0_brown_2 .nav .navMainItemGroup .navMainItem:hover { background: #c18200 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px;border-radius:10px; }
+.navTpl_0_0_brown_2 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_0_brown_2 .nav .navSubItemGroup .navSubItem { background:url(navTpl/san_13_nnxI.png) no-repeat left #c18200; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px;text-indent:1em; margin-top:2px; }
+/*二级菜单hover参数*/
+.navTpl_0_0_brown_2 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_0_brown_2 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_0_brown_2 .nav .navSubItemGroup .navSubItem:hover { background: #c18200 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+[navtplclassname=navTpl_0_0_brown_2] .tplPreviewImg{background:url(navTpl/brown/brown_0_0_2.jpg);}
+
+/**********************/
+.navTpl_0_0_green_2 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_0_green_2 .nav{background:url(navTpl/green_bg.jpg) repeat-x;border-radius:10px; height:42px;}
+.navTpl_0_0_green_2 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px;}
+.navTpl_0_0_green_2 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px;}
+/*底色参数*/
+.navTpl_0_0_green_2 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_0_green_2 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_0_green_2 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_0_green_2 .nav .navMainItemGroup .navMainItem:hover { background: #00b346 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px;border-radius:10px; }
+.navTpl_0_0_green_2 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_0_green_2 .nav .navSubItemGroup .navSubItem { background:url(navTpl/san_13_nnxI.png) no-repeat left #00b346; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px;text-indent:1em; margin-top:2px;  }
+/*二级菜单hover参数*/
+.navTpl_0_0_green_2 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_0_green_2 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_0_green_2 .nav .navSubItemGroup .navSubItem:hover { background: #00b346 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+[navtplclassname=navTpl_0_0_green_2] .tplPreviewImg{background:url(navTpl/green/green_0_0_2.jpg);}
+
+/**********************/
+.navTpl_0_0_blue_2 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_0_blue_2 .nav{background:url(navTpl/blue_bg.jpg) repeat-x;border-radius:10px;height:42px;}
+.navTpl_0_0_blue_2 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px;}
+.navTpl_0_0_blue_2 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px; }
+/*底色参数*/
+.navTpl_0_0_blue_2 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_0_blue_2 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_0_blue_2 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_0_blue_2 .nav .navMainItemGroup .navMainItem:hover { background: #258bd3 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px;border-radius:10px;}
+.navTpl_0_0_blue_2 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_0_blue_2 .nav .navSubItemGroup .navSubItem { background:url(navTpl/san_13_nnxI.png) no-repeat left #258bd3; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; text-indent:1em; margin-top:2px;}
+/*二级菜单hover参数*/
+.navTpl_0_0_blue_2 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_0_blue_2 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_0_blue_2 .nav .navSubItemGroup .navSubItem:hover { background: #258bd3 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+[navtplclassname=navTpl_0_0_blue_2] .tplPreviewImg{background:url(navTpl/blue/blue_0_0_2.jpg);}
+
+/**********************/
+.navTpl_0_0_purple_2 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_0_purple_2 .nav{background:url(navTpl/purple_bg.jpg) repeat-x;border-radius:10px;height:42px;}
+.navTpl_0_0_purple_2 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px;}
+.navTpl_0_0_purple_2 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px; }
+/*底色参数*/
+.navTpl_0_0_purple_2 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_0_purple_2 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_0_purple_2 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_0_purple_2 .nav .navMainItemGroup .navMainItem:hover { background: #d426ac repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 42px; line-height: 42px;border-radius:10px;}
+.navTpl_0_0_purple_2 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_0_purple_2 .nav .navSubItemGroup .navSubItem { background:url(navTpl/san_13_nnxI.png) no-repeat left #d426ac; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; text-indent:1em; margin-top:2px;}
+/*二级菜单hover参数*/
+.navTpl_0_0_purple_2 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_0_purple_2 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_0_purple_2 .nav .navSubItemGroup .navSubItem:hover { background: #d426ac repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 29px; line-height: 29px; }
+[navtplclassname=navTpl_0_0_purple_2] .tplPreviewImg{background:url(navTpl/purple/purple_0_0_2.jpg);}
+
+/**********************/
+.navTpl_0_0_white_2 { background: none repeat 0% 0% scroll; height: 42px; line-height: 42px; }
+.navTpl_0_0_white_2 .nav{background:url(navTpl/white_bg.jpg) repeat-x;border-radius:10px;height:42px;}
+.navTpl_0_0_white_2 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 42px;}
+.navTpl_0_0_white_2 .nav .navMainItemGroup { width: 120px; height: 42px; line-height: 42px; background:url(navTpl/white_line.jpg) right no-repeat;}
+/*底色参数*/
+.navTpl_0_0_white_2 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#000; height: 42px; line-height: 42px; }
+/*hover参数*/
+.navTpl_0_0_white_2 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_0_0_white_2 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_0_0_white_2 .nav .navMainItemGroup .navMainItem:hover { background: #f2f2f2 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#000; height: 42px; line-height: 42px;border-radius:10px;}
+.navTpl_0_0_white_2 .nav .navSubItemGroup { width: 120px; height: 29px; line-height: 29px; }
+/*二级菜单参数*/
+.navTpl_0_0_white_2 .nav .navSubItemGroup .navSubItem { background:url(navTpl/san_13_nnxI.png) no-repeat left #f2f2f2; font: normal normal 14px 微软雅黑; text-decoration: none; color:#000; height: 29px; line-height: 29px; text-indent:1em; margin-top:2px;}
+/*二级菜单hover参数*/
+.navTpl_0_0_white_2 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_0_0_white_2 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_0_0_white_2 .nav .navSubItemGroup .navSubItem:hover { background: #f2f2f2 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#000; height: 29px; line-height: 29px; }
+[navtplclassname=navTpl_0_0_white_2] .tplPreviewImg{background:url(navTpl/white/white_0_0_2.jpg);}
+
+
+/**********************/
+/**********************/
+/**********竖向-右-节节分段************/
+
+.navTpl_1_1_black_1 { background: none repeat 0% 0% scroll; height: 52px; line-height: 52px; width:120px;}
+.navTpl_1_1_black_1 .nav{background:#0d0d0d;}
+.navTpl_1_1_black_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 52px;}
+.navTpl_1_1_black_1 .nav .navMainItemGroup { width: 120px; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;}
+/*底色参数*/
+.navTpl_1_1_black_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; }
+/*hover参数*/
+.navTpl_1_1_black_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_1_1_black_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_1_1_black_1 .nav .navMainItemGroup .navMainItem:hover { background: #0d0d0d repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#999; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;}
+.navTpl_1_1_black_1 .nav .navSubItemGroup { width: 120px; height: 52px; line-height: 52px; }
+/*二级菜单参数*/
+.navTpl_1_1_black_1 .nav .navSubItemGroup .navSubItem { background: #0d0d0d repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;border-left:solid 3px #fff; }
+/*二级菜单hover参数*/
+.navTpl_1_1_black_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_1_1_black_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_1_1_black_1 .nav .navSubItemGroup .navSubItem:hover { background: #0d0d0d repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#999; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;border-left:solid 3px #fff;}
+[navtplclassname=navTpl_1_1_black_1] .tplPreviewImg{background:url(navTpl/black/black_1_1_1.jpg);}
+
+/**********************/
+.navTpl_1_1_red_1 { background: none repeat 0% 0% scroll; height: 52px; line-height: 52px; width:120px;}
+.navTpl_1_1_red_1 .nav{background:#b80000;}
+.navTpl_1_1_red_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 52px;}
+.navTpl_1_1_red_1 .nav .navMainItemGroup { width: 120px; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;}
+/*底色参数*/
+.navTpl_1_1_red_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; }
+/*hover参数*/
+.navTpl_1_1_red_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_1_1_red_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_1_1_red_1 .nav .navMainItemGroup .navMainItem:hover { background: #7a0000 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;}
+.navTpl_1_1_red_1 .nav .navSubItemGroup { width: 120px; height: 52px; line-height: 52px; }
+/*二级菜单参数*/
+.navTpl_1_1_red_1 .nav .navSubItemGroup .navSubItem { background: #b80000 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;border-left:solid 3px #fff; }
+/*二级菜单hover参数*/
+.navTpl_1_1_red_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_1_1_red_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_1_1_red_1 .nav .navSubItemGroup .navSubItem:hover { background: #7a0000 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;border-left:solid 3px #fff;}
+[navtplclassname=navTpl_1_1_red_1] .tplPreviewImg{background:url(navTpl/red/red_1_1_1.jpg);}
+
+/**********************/
+.navTpl_1_1_brown_1 { background: none repeat 0% 0% scroll; height: 52px; line-height: 52px; width:120px;}
+.navTpl_1_1_brown_1 .nav{background:#9b4d00;}
+.navTpl_1_1_brown_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 52px;}
+.navTpl_1_1_brown_1 .nav .navMainItemGroup { width: 120px; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;}
+/*底色参数*/
+.navTpl_1_1_brown_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; }
+/*hover参数*/
+.navTpl_1_1_brown_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_1_1_brown_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_1_1_brown_1 .nav .navMainItemGroup .navMainItem:hover { background: #7d3e00 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;}
+.navTpl_1_1_brown_1 .nav .navSubItemGroup { width: 120px; height: 52px; line-height: 52px; }
+/*二级菜单参数*/
+.navTpl_1_1_brown_1 .nav .navSubItemGroup .navSubItem { background: #9b4d00 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;border-left:solid 3px #fff; }
+/*二级菜单hover参数*/
+.navTpl_1_1_brown_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_1_1_brown_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_1_1_brown_1 .nav .navSubItemGroup .navSubItem:hover { background: #7d3e00 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;border-left:solid 3px #fff;}
+[navtplclassname=navTpl_1_1_brown_1] .tplPreviewImg{background:url(navTpl/brown/brown_1_1_1.jpg);}
+
+/**********************/
+.navTpl_1_1_yellow_1 { background: none repeat 0% 0% scroll; height: 52px; line-height: 52px; width:120px;}
+.navTpl_1_1_yellow_1 .nav{background:#fd6d00;}
+.navTpl_1_1_yellow_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 52px;}
+.navTpl_1_1_yellow_1 .nav .navMainItemGroup { width: 120px; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;}
+/*底色参数*/
+.navTpl_1_1_yellow_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; }
+/*hover参数*/
+.navTpl_1_1_yellow_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_1_1_yellow_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_1_1_yellow_1 .nav .navMainItemGroup .navMainItem:hover { background: #e65e00 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;}
+.navTpl_1_1_yellow_1 .nav .navSubItemGroup { width: 120px; height: 52px; line-height: 52px; }
+/*二级菜单参数*/
+.navTpl_1_1_yellow_1 .nav .navSubItemGroup .navSubItem { background: #fd6d00 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;border-left:solid 3px #fff; }
+/*二级菜单hover参数*/
+.navTpl_1_1_yellow_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_1_1_yellow_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_1_1_yellow_1 .nav .navSubItemGroup .navSubItem:hover { background: #e65e00 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;border-left:solid 3px #fff;}
+[navtplclassname=navTpl_1_1_yellow_1] .tplPreviewImg{background:url(navTpl/yellow/yellow_1_1_1.jpg);}
+
+/**********************/
+.navTpl_1_1_green_1 { background: none repeat 0% 0% scroll; height: 52px; line-height: 52px; width:120px;}
+.navTpl_1_1_green_1 .nav{background:#00881a;}
+.navTpl_1_1_green_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 52px;}
+.navTpl_1_1_green_1 .nav .navMainItemGroup { width: 120px; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;}
+/*底色参数*/
+.navTpl_1_1_green_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; }
+/*hover参数*/
+.navTpl_1_1_green_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_1_1_green_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_1_1_green_1 .nav .navMainItemGroup .navMainItem:hover { background: #007216 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;}
+.navTpl_1_1_green_1 .nav .navSubItemGroup { width: 120px; height: 52px; line-height: 52px; }
+/*二级菜单参数*/
+.navTpl_1_1_green_1 .nav .navSubItemGroup .navSubItem { background: #00881a repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;border-left:solid 3px #fff; }
+/*二级菜单hover参数*/
+.navTpl_1_1_green_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_1_1_green_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_1_1_green_1 .nav .navSubItemGroup .navSubItem:hover { background: #007216 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;border-left:solid 3px #fff;}
+[navtplclassname=navTpl_1_1_green_1] .tplPreviewImg{background:url(navTpl/green/green_1_1_1.jpg);}
+
+/**********************/
+.navTpl_1_1_blue_1 { background: none repeat 0% 0% scroll; height: 52px; line-height: 52px; width:120px;}
+.navTpl_1_1_blue_1 .nav{background:#005baa;}
+.navTpl_1_1_blue_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 52px;}
+.navTpl_1_1_blue_1 .nav .navMainItemGroup { width: 120px; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;}
+/*底色参数*/
+.navTpl_1_1_blue_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; }
+/*hover参数*/
+.navTpl_1_1_blue_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_1_1_blue_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_1_1_blue_1 .nav .navMainItemGroup .navMainItem:hover { background: #004d8f repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;}
+.navTpl_1_1_blue_1 .nav .navSubItemGroup { width: 120px; height: 52px; line-height: 52px; }
+/*二级菜单参数*/
+.navTpl_1_1_blue_1 .nav .navSubItemGroup .navSubItem { background: #005baa repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;border-left:solid 3px #fff; }
+/*二级菜单hover参数*/
+.navTpl_1_1_blue_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_1_1_blue_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_1_1_blue_1 .nav .navSubItemGroup .navSubItem:hover { background: #004d8f repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;border-left:solid 3px #fff;}
+[navtplclassname=navTpl_1_1_blue_1] .tplPreviewImg{background:url(navTpl/blue/blue_1_1_1.jpg);}
+
+/**********************/
+.navTpl_1_1_purple_1 { background: none repeat 0% 0% scroll; height: 52px; line-height: 52px; width:120px;}
+.navTpl_1_1_purple_1 .nav{background:#94008c;}
+.navTpl_1_1_purple_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 52px;}
+.navTpl_1_1_purple_1 .nav .navMainItemGroup { width: 120px; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;}
+/*底色参数*/
+.navTpl_1_1_purple_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; }
+/*hover参数*/
+.navTpl_1_1_purple_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_1_1_purple_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_1_1_purple_1 .nav .navMainItemGroup .navMainItem:hover { background: #791878 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;}
+.navTpl_1_1_purple_1 .nav .navSubItemGroup { width: 120px; height: 52px; line-height: 52px; }
+/*二级菜单参数*/
+.navTpl_1_1_purple_1 .nav .navSubItemGroup .navSubItem { background: #94008c repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;border-left:solid 3px #fff; }
+/*二级菜单hover参数*/
+.navTpl_1_1_purple_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_1_1_purple_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_1_1_purple_1 .nav .navSubItemGroup .navSubItem:hover { background: #791878 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;border-left:solid 3px #fff;}
+[navtplclassname=navTpl_1_1_purple_1] .tplPreviewImg{background:url(navTpl/purple/purple_1_1_1.jpg);}
+
+/**********************/
+.navTpl_1_1_white_1 { background: none repeat 0% 0% scroll; height: 52px; line-height: 52px; width:120px;}
+.navTpl_1_1_white_1 .nav{background:#f2f2f2;}
+.navTpl_1_1_white_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 52px;}
+.navTpl_1_1_white_1 .nav .navMainItemGroup { width: 120px; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;}
+/*底色参数*/
+.navTpl_1_1_white_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#000; height: 52px; line-height: 52px; }
+/*hover参数*/
+.navTpl_1_1_white_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_1_1_white_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_1_1_white_1 .nav .navMainItemGroup .navMainItem:hover { background: #e9e9e9 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#000; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;}
+.navTpl_1_1_white_1 .nav .navSubItemGroup { width: 120px; height: 52px; line-height: 52px; }
+/*二级菜单参数*/
+.navTpl_1_1_white_1 .nav .navSubItemGroup .navSubItem { background: #f2f2f2 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#000; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;border-left:solid 3px #fff; }
+/*二级菜单hover参数*/
+.navTpl_1_1_white_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_1_1_white_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_1_1_white_1 .nav .navSubItemGroup .navSubItem:hover { background: #e9e9e9 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#000; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;border-left:solid 3px #fff;}
+[navtplclassname=navTpl_1_1_white_1] .tplPreviewImg{background:url(navTpl/white/white_1_1_1.jpg);}
+
+/**********************/
+/**********竖向-左-节节分段************/
+.navTpl_1_0_black_1 { background: none repeat 0% 0% scroll; height: 52px; line-height: 52px; width:120px;}
+.navTpl_1_0_black_1 .nav{background:#0d0d0d;}
+.navTpl_1_0_black_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 52px;}
+.navTpl_1_0_black_1 .nav .navMainItemGroup { width: 120px; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;}
+/*底色参数*/
+.navTpl_1_0_black_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; }
+/*hover参数*/
+.navTpl_1_0_black_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_1_0_black_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_1_0_black_1 .nav .navMainItemGroup .navMainItem:hover { background: #0d0d0d repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#999; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;}
+.navTpl_1_0_black_1 .nav .navSubItemGroup { width: 120px; height: 52px; line-height: 52px; }
+/*二级菜单参数*/
+.navTpl_1_0_black_1 .nav .navSubItemGroup .navSubItem { background: #0d0d0d repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;border-right:solid 3px #fff; }
+/*二级菜单hover参数*/
+.navTpl_1_0_black_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_1_0_black_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_1_0_black_1 .nav .navSubItemGroup .navSubItem:hover { background: #0d0d0d repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#999; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;border-right:solid 3px #fff;}
+[navtplclassname=navTpl_1_0_black_1] .tplPreviewImg{background:url(navTpl/black/black_1_0_1.jpg);}
+
+/**********************/
+.navTpl_1_0_red_1 { background: none repeat 0% 0% scroll; height: 52px; line-height: 52px; width:120px;}
+.navTpl_1_0_red_1 .nav{background:#b80000;}
+.navTpl_1_0_red_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 52px;}
+.navTpl_1_0_red_1 .nav .navMainItemGroup { width: 120px; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;}
+/*底色参数*/
+.navTpl_1_0_red_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; }
+/*hover参数*/
+.navTpl_1_0_red_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_1_0_red_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_1_0_red_1 .nav .navMainItemGroup .navMainItem:hover { background: #7a0000 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;}
+.navTpl_1_0_red_1 .nav .navSubItemGroup { width: 120px; height: 52px; line-height: 52px; }
+/*二级菜单参数*/
+.navTpl_1_0_red_1 .nav .navSubItemGroup .navSubItem { background: #b80000 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;border-right:solid 3px #fff; }
+/*二级菜单hover参数*/
+.navTpl_1_0_red_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_1_0_red_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_1_0_red_1 .nav .navSubItemGroup .navSubItem:hover { background: #7a0000 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;border-right:solid 3px #fff;}
+[navtplclassname=navTpl_1_0_red_1] .tplPreviewImg{background:url(navTpl/red/red_1_0_1.jpg);}
+
+/**********************/
+.navTpl_1_0_brown_1 { background: none repeat 0% 0% scroll; height: 52px; line-height: 52px; width:120px;}
+.navTpl_1_0_brown_1 .nav{background:#9b4d00;}
+.navTpl_1_0_brown_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 52px;}
+.navTpl_1_0_brown_1 .nav .navMainItemGroup { width: 120px; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;}
+/*底色参数*/
+.navTpl_1_0_brown_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; }
+/*hover参数*/
+.navTpl_1_0_brown_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_1_0_brown_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_1_0_brown_1 .nav .navMainItemGroup .navMainItem:hover { background: #7d3e00 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;}
+.navTpl_1_0_brown_1 .nav .navSubItemGroup { width: 120px; height: 52px; line-height: 52px; }
+/*二级菜单参数*/
+.navTpl_1_0_brown_1 .nav .navSubItemGroup .navSubItem { background: #9b4d00 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;border-right:solid 3px #fff; }
+/*二级菜单hover参数*/
+.navTpl_1_0_brown_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_1_0_brown_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_1_0_brown_1 .nav .navSubItemGroup .navSubItem:hover { background: #7d3e00 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;border-right:solid 3px #fff;}
+[navtplclassname=navTpl_1_0_brown_1] .tplPreviewImg{background:url(navTpl/brown/brown_1_0_1.jpg);}
+
+/**********************/
+.navTpl_1_0_yellow_1 { background: none repeat 0% 0% scroll; height: 52px; line-height: 52px; width:120px;}
+.navTpl_1_0_yellow_1 .nav{background:#fd6d00;}
+.navTpl_1_0_yellow_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 52px;}
+.navTpl_1_0_yellow_1 .nav .navMainItemGroup { width: 120px; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;}
+/*底色参数*/
+.navTpl_1_0_yellow_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; }
+/*hover参数*/
+.navTpl_1_0_yellow_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_1_0_yellow_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_1_0_yellow_1 .nav .navMainItemGroup .navMainItem:hover { background: #e65e00 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;}
+.navTpl_1_0_yellow_1 .nav .navSubItemGroup { width: 120px; height: 52px; line-height: 52px; }
+/*二级菜单参数*/
+.navTpl_1_0_yellow_1 .nav .navSubItemGroup .navSubItem { background: #fd6d00 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;border-right:solid 3px #fff; }
+/*二级菜单hover参数*/
+.navTpl_1_0_yellow_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_1_0_yellow_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_1_0_yellow_1 .nav .navSubItemGroup .navSubItem:hover { background: #e65e00 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;border-right:solid 3px #fff;}
+[navtplclassname=navTpl_1_0_yellow_1] .tplPreviewImg{background:url(navTpl/yellow/yellow_1_0_1.jpg);}
+
+/**********************/
+.navTpl_1_0_green_1 { background: none repeat 0% 0% scroll; height: 52px; line-height: 52px; width:120px;}
+.navTpl_1_0_green_1 .nav{background:#00881a;}
+.navTpl_1_0_green_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 52px;}
+.navTpl_1_0_green_1 .nav .navMainItemGroup { width: 120px; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;}
+/*底色参数*/
+.navTpl_1_0_green_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; }
+/*hover参数*/
+.navTpl_1_0_green_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_1_0_green_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_1_0_green_1 .nav .navMainItemGroup .navMainItem:hover { background: #007216 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;}
+.navTpl_1_0_green_1 .nav .navSubItemGroup { width: 120px; height: 52px; line-height: 52px; }
+/*二级菜单参数*/
+.navTpl_1_0_green_1 .nav .navSubItemGroup .navSubItem { background: #00881a repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;border-right:solid 3px #fff; }
+/*二级菜单hover参数*/
+.navTpl_1_0_green_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_1_0_green_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_1_0_green_1 .nav .navSubItemGroup .navSubItem:hover { background: #007216 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;border-right:solid 3px #fff;}
+[navtplclassname=navTpl_1_0_green_1] .tplPreviewImg{background:url(navTpl/green/green_1_0_1.jpg);}
+
+/**********************/
+.navTpl_1_0_blue_1 { background: none repeat 0% 0% scroll; height: 52px; line-height: 52px; width:120px;}
+.navTpl_1_0_blue_1 .nav{background:#005baa;}
+.navTpl_1_0_blue_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 52px;}
+.navTpl_1_0_blue_1 .nav .navMainItemGroup { width: 120px; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;}
+/*底色参数*/
+.navTpl_1_0_blue_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; }
+/*hover参数*/
+.navTpl_1_0_blue_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_1_0_blue_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_1_0_blue_1 .nav .navMainItemGroup .navMainItem:hover { background: #004d8f repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;}
+.navTpl_1_0_blue_1 .nav .navSubItemGroup { width: 120px; height: 52px; line-height: 52px; }
+/*二级菜单参数*/
+.navTpl_1_0_blue_1 .nav .navSubItemGroup .navSubItem { background: #005baa repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;border-right:solid 3px #fff; }
+/*二级菜单hover参数*/
+.navTpl_1_0_blue_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_1_0_blue_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_1_0_blue_1 .nav .navSubItemGroup .navSubItem:hover { background: #004d8f repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;border-right:solid 3px #fff;}
+[navtplclassname=navTpl_1_0_blue_1] .tplPreviewImg{background:url(navTpl/blue/blue_1_0_1.jpg);}
+
+/**********************/
+.navTpl_1_0_purple_1 { background: none repeat 0% 0% scroll; height: 52px; line-height: 52px; width:120px;}
+.navTpl_1_0_purple_1 .nav{background:#94008c;}
+.navTpl_1_0_purple_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 52px;}
+.navTpl_1_0_purple_1 .nav .navMainItemGroup { width: 120px; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;}
+/*底色参数*/
+.navTpl_1_0_purple_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; }
+/*hover参数*/
+.navTpl_1_0_purple_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_1_0_purple_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_1_0_purple_1 .nav .navMainItemGroup .navMainItem:hover { background: #791878 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;}
+.navTpl_1_0_purple_1 .nav .navSubItemGroup { width: 120px; height: 52px; line-height: 52px; }
+/*二级菜单参数*/
+.navTpl_1_0_purple_1 .nav .navSubItemGroup .navSubItem { background: #94008c repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;border-right:solid 3px #fff; }
+/*二级菜单hover参数*/
+.navTpl_1_0_purple_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_1_0_purple_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_1_0_purple_1 .nav .navSubItemGroup .navSubItem:hover { background: #791878 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#fff; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;border-right:solid 3px #fff;}
+[navtplclassname=navTpl_1_0_purple_1] .tplPreviewImg{background:url(navTpl/purple/purple_1_0_1.jpg);}
+
+/**********************/
+.navTpl_1_0_white_1 { background: none repeat 0% 0% scroll; height: 52px; line-height: 52px; width:120px;}
+.navTpl_1_0_white_1 .nav{background:#f2f2f2;}
+.navTpl_1_0_white_1 .nav .navMainItemGroup .navMainItem{ width: 120px; height: 52px;}
+.navTpl_1_0_white_1 .nav .navMainItemGroup { width: 120px; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;}
+/*底色参数*/
+.navTpl_1_0_white_1 .nav .navMainItemGroup .navMainItem {  font: normal normal 16px 微软雅黑; text-decoration: none; color:#000; height: 52px; line-height: 52px; }
+/*hover参数*/
+.navTpl_1_0_white_1 .nav .navMainItemGroup .navMainItemHighlight,
+.navTpl_1_0_white_1 .nav .navMainItemGroup .navMainItemHover,
+.navTpl_1_0_white_1 .nav .navMainItemGroup .navMainItem:hover { background: #e9e9e9 repeat 0% 0% scroll; font: normal normal 16px 微软雅黑; text-decoration: none; color:#000; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;}
+.navTpl_1_0_white_1 .nav .navSubItemGroup { width: 120px; height: 52px; line-height: 52px; }
+/*二级菜单参数*/
+.navTpl_1_0_white_1 .nav .navSubItemGroup .navSubItem { background: #f2f2f2 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#000; height: 52px; line-height: 52px;border-bottom:solid 3px #fff;border-right:solid 3px #fff; }
+/*二级菜单hover参数*/
+.navTpl_1_0_white_1 .nav .navSubItemGroup .navSubItemHighlight,
+.navTpl_1_0_white_1 .nav .navSubItemGroup .navSubItemHover,
+.navTpl_1_0_white_1 .nav .navSubItemGroup .navSubItem:hover { background: #e9e9e9 repeat 0% 0% scroll; font: normal normal 14px 微软雅黑; text-decoration: none; color:#000; height: 52px; line-height: 52px; border-bottom:solid 3px #fff;border-right:solid 3px #fff;}
+[navtplclassname=navTpl_1_0_white_1] .tplPreviewImg{background:url(navTpl/white/white_1_0_1.jpg);}
